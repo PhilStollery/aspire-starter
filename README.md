@@ -1,16 +1,12 @@
-# Deploy a cloud-native application automatically
+# Create a .NET Aspire application
 
-The code in this repository supports a Learn module focused on automating CI/CD with .NET. The module shows you how to:
+The code in this repository supports a Learn module focused on starting to integrate .NET Aspire into your apps. The module shows you how to:
 
-- Authenticate GitHub Actions to a container registry.
-- Securely store sensitive information that GitHub Actions uses.
-- Implement an action to build the container image for a microservice.
-- Modify and commit the microservice code to trigger a build.
-- Implement an action to deploy the updated container to an Azure Kubernetes Service (AKS) cluster.
-- Modify and commit a Helm chart to trigger the deployment.
-- Revert the microservice to the previous deployment.
+- Create new cloud-native apps by using the .NET Aspire templates in Visual Studio.
+- Add the .NET Aspire framework to an existing .NET app for orchestration and simple cloud-native components.
+- Add the .NET Aspire framework to an existing ASP.NET Core web app.
 
-Take the moudle on [Microsoft Learn Training](https://learn.microsoft.com/training/modules/microservices-devops-aspnet-core/)
+Take the module on [Microsoft Learn Training](https://learn.microsoft.com/training/modules/TODO/)
 
 # Contributing
 
